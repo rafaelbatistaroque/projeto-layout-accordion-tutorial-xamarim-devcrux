@@ -1,0 +1,14 @@
+C:\DEV\curso-xamarin-2020\layout1_devcrux\layout1_devcrux\layout1_devcrux\obj\Debug\netstandard2.0\layout1_devcrux.csprojAssemblyReference.cache
+C:\DEV\curso-xamarin-2020\layout1_devcrux\layout1_devcrux\layout1_devcrux\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\DEV\curso-xamarin-2020\layout1_devcrux\layout1_devcrux\layout1_devcrux\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\DEV\curso-xamarin-2020\layout1_devcrux\layout1_devcrux\layout1_devcrux\obj\Debug\netstandard2.0\layout1_devcrux.AssemblyInfoInputs.cache
+C:\DEV\curso-xamarin-2020\layout1_devcrux\layout1_devcrux\layout1_devcrux\obj\Debug\netstandard2.0\layout1_devcrux.AssemblyInfo.cs
+C:\DEV\curso-xamarin-2020\layout1_devcrux\layout1_devcrux\layout1_devcrux\obj\Debug\netstandard2.0\layout1_devcrux.csproj.CoreCompileInputs.cache
+C:\DEV\curso-xamarin-2020\layout1_devcrux\layout1_devcrux\layout1_devcrux\bin\Debug\netstandard2.0\layout1_devcrux.deps.json
+C:\DEV\curso-xamarin-2020\layout1_devcrux\layout1_devcrux\layout1_devcrux\bin\Debug\netstandard2.0\layout1_devcrux.dll
+C:\DEV\curso-xamarin-2020\layout1_devcrux\layout1_devcrux\layout1_devcrux\bin\Debug\netstandard2.0\ref\layout1_devcrux.dll
+C:\DEV\curso-xamarin-2020\layout1_devcrux\layout1_devcrux\layout1_devcrux\bin\Debug\netstandard2.0\layout1_devcrux.pdb
+C:\DEV\curso-xamarin-2020\layout1_devcrux\layout1_devcrux\layout1_devcrux\obj\Debug\netstandard2.0\XamlC.stamp
+C:\DEV\curso-xamarin-2020\layout1_devcrux\layout1_devcrux\layout1_devcrux\obj\Debug\netstandard2.0\layout1_devcrux.dll
+C:\DEV\curso-xamarin-2020\layout1_devcrux\layout1_devcrux\layout1_devcrux\obj\Debug\netstandard2.0\ref\layout1_devcrux.dll
+C:\DEV\curso-xamarin-2020\layout1_devcrux\layout1_devcrux\layout1_devcrux\obj\Debug\netstandard2.0\layout1_devcrux.pdb

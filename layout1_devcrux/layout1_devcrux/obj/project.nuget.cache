@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "junC2dm2WrpIZ8CWh6hPT2aBjTxcDYBZfg+YTqknz45TiouSha1I/nsXz/74W3ti2KJdTPvz3rCjli465exgmw==",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\curso-xamarin-2020\\layout1_devcrux\\layout1_devcrux\\layout1_devcrux\\layout1_devcrux.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maran\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\maran\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\maran\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\maran\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\maran\\.nuget\\packages\\xamarin.forms\\4.7.0.968\\xamarin.forms.4.7.0.968.nupkg.sha512"
+  ],
+  "logs": []
+}
